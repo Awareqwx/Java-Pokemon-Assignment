@@ -1,7 +1,7 @@
 
 public class Pokemon
 {
-
+    
     private String name, type;
     private int health;
     
